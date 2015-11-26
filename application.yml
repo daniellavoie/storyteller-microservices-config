@@ -1,0 +1,8 @@
+storyteller-api-message: StoryTellerAPI
+random-image-ms-message: RandomImageMicroService
+random-story-ms-message: RandomStoryMicroService
+
+logging:
+# file: /var/memento/security.log
+  level:
+    com.codependent: 'INFO'
