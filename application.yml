@@ -1,7 +1,7 @@
 storyteller-api-message: StoryTellerAPI
 random-image-ms-message: RandomImageMicroService
 random-story-ms-message: RandomStoryMicroService
-some: thing
+some: thong
 
 logging:
 # file: /var/memento/security.log
